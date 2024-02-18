@@ -2,6 +2,8 @@ from pathlib import Path
 import shutil
 import magic
 
+
+print("script has started")
 # quick config set-up
 mime = magic.Magic(mime=True)
 
@@ -120,4 +122,4 @@ if location:
 else:
     print("invalid location try again 😒")
 
-print("script ended")
+
