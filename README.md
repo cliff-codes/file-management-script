@@ -15,6 +15,6 @@ As at now, it groups files based on the following,
 2. docx files
 3. pptx files
 4. video files(.mp4 only)
-5. image files
+5. image files(jpeg only)
 6. An then all other files of file-types not listed above are stored in a folder called
    others
